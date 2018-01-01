@@ -1,0 +1,8 @@
+{
+  "name": "react-bot",
+  "description": "Discord reaction bot",
+  "version": "0.1.0",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}

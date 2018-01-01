@@ -1,0 +1,25 @@
+{
+  "token": "",
+  "reactions": [
+    {
+      "regex": {
+        "content": "^rip$",
+        "global": false,
+        "multiline": false,
+        "caseInsensitive": true
+      },
+      "emoji": "coffin",
+      "serverEmoji": false
+    },
+    {
+      "regex": {
+        "content": "^wh$",
+        "global": false,
+        "multiline": false,
+        "caseInsensitive": true
+      },
+      "emoji": "scyWh",
+      "serverEmoji": true
+    }
+  ]
+}
