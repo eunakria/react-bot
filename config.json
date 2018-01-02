@@ -8,8 +8,7 @@
         "multiline": false,
         "caseInsensitive": true
       },
-      "emoji": "coffin",
-      "serverEmoji": false
+      "unicodeEmoji": "\u26B0"
     },
     {
       "regex": {
@@ -18,8 +17,7 @@
         "multiline": false,
         "caseInsensitive": true
       },
-      "emoji": "scyWh",
-      "serverEmoji": true
+      "serverEmoji": "scyWh"
     }
   ]
 }
